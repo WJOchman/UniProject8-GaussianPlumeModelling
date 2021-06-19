@@ -1,6 +1,7 @@
 # UniProject8-GaussianPlumeModelling
 
 The Gaussian Plume Model is based on the assumptions that the distribution of pollutant concentrations at different distances from the source follow a Gaussian distribution; the model estimates steate state solutions at various distances from the source, for different wind velocities, different chimney heights and different atmospheric conditions. 
+
 The main purpose of this assignment is to write MATLAB code which can plot the concentrations at ground level, for the atmospheric conditions given by the assignment brief, within an area of 1km. 
 
 The MATLAB code requires:
